@@ -11,6 +11,7 @@ how to develop using VueJS and NodeJS
 
 ### 📫 How to reach me:
 📧 romero.nicholejohn@gmail.com
+
 Discord: Nickr#7895
 
 <!--
