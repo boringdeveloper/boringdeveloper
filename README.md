@@ -11,7 +11,7 @@ how to develop using VueJS and NodeJS
 
 ### 📫 How to reach me:
 📧 romero.nicholejohn@gmail.com
-Discord: Nickr#7895
+###### Discord: Nickr#7895
 
 <!--
 **boringdeveloper/boringdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
