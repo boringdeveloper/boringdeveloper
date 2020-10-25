@@ -1,4 +1,5 @@
-## Hi there 👋 My name is Nick and I am a Mobile and Web Developer
+## Hi there 👋 My name is Nick and I am a bored developer
+![](https://komarev.com/ghpvc/?boringdeveloper&label=Profile+Visits)
 
 ### 🔭 I’m currently working on
 some freelance projects using Flutter.
