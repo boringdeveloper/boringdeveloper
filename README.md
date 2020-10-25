@@ -1,5 +1,5 @@
 ## Hi there 👋 My name is Nick and I am a bored developer
-![](https://komarev.com/ghpvc/?boringdeveloper&label=Profile+Visits)
+![](https://visitor-badge.glitch.me/badge?page_id=boringdeveloper.boringdeveloper)
 
 ### 🔭 I’m currently working on
 some freelance projects using Flutter.
