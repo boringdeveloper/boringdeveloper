@@ -35,4 +35,4 @@ how to develop using VueJS and NodeJS
 
 <br />
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=boringdeveloper&show_icons=true&theme=dracula" alt="boringdeveloper github stats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=boringdeveloper&show_icons=true&theme=dracula" alt="boringdeveloper github stats" /> </p>
