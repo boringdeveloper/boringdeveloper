@@ -5,12 +5,12 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=boringdeveloper.boringdeveloper)
 
-Yo! I'm Nichole John Romero, a Mobile Developer from the Philippines. I'm currently a Mobile Support Consultant :speaking_head: at [Yondu, Inc.](https://www.yondu.com/) and self-learning Flutter development :man_teacher: at the same time. I'm also a Former Software Developer :man_technologist: at [Cloud Panda PH, Inc.](http://www.cloudpanda.ph/) and a Former Web Developer Intern :man_student: at [Prople BPO Inc.](https://www.propleinc.com/). Besides developing apps and writing codes, I also enjoy playing games :video_game: with some of my friends.
+Yo! I'm Nichole John Romero, a Mobile Developer from the Philippines. I'm currently a Mobile Support Consultant :speaking_head: at [Yondu, Inc.](https://www.yondu.com/) and self-learning Flutter development :man_teacher: at the same time. I'm also a Former Software Developer :man_technologist: at [Cloud Panda PH, Inc.](http://www.cloudpanda.ph/) and a Former Web Developer Intern :man_student: at [Prople BPO Inc.](https://www.propleinc.com/).
 
 <img align="right" alt="GIF" src="https://github.com/boringdeveloper/boringdeveloper/blob/master/developer.gif?raw=true" width="500" height="auto" />
 
 ### 🔭 I’m currently working on
-some freelance projects using Flutter. <br />
+some projects using Flutter. <br />
 and also doing some clone of famous apps <br />
 [Grab Food UI Clone](https://github.com/boringdeveloper/GrabFoodUI)
 
