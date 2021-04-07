@@ -1,13 +1,13 @@
 ## Hi there 👋
 <a href="https://www.linkedin.com/in/nichole-john-talban-romero/" target="_blank">
-  <img align="left" alt="Nick's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Nick's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=boringdeveloper.boringdeveloper)
 
 Yo! I'm Nichole John Romero, a Mobile and Web Developer from the Philippines. I'm currently a UI Developer, formerly a Mobile Support Consultant, :speaking_head: at [Yondu, Inc.](https://www.yondu.com/) deployed as a Contractor for [Sunlife PH](https://www.sunlife.com.ph/en/). I'm also a Former Software Developer :man_technologist: at [Cloud Panda PH, Inc.](http://www.cloudpanda.ph/) and a Former Web Developer Intern :man_student: at [Prople BPO Inc.](https://www.propleinc.com/). During my spare time I am self-learning Flutter development :man_teacher:
 
-<img align="right" alt="GIF" src="https://github.com/boringdeveloper/boringdeveloper/blob/master/developer.gif?raw=true" width="500" height="auto" />
+<img align="right" alt="Developer GIF" src="https://github.com/boringdeveloper/boringdeveloper/blob/master/developer.gif?raw=true" width="500" height="auto" />
 
 ### 🔭 I’m currently working on
 some projects using Flutter. <br />
@@ -36,5 +36,7 @@ how to develop using Angular and NodeJS
 🗨️ Discord: Nickr#7895
 
 <br />
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=boringdeveloper&theme=nord&no-frame=true" alt="boringdeveloper achievements" /> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=boringdeveloper&show_icons=true&theme=dracula" alt="boringdeveloper github stats" /> </p>
