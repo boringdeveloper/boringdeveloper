@@ -1,17 +1,12 @@
-## Hi there 👋
-<a href="https://www.linkedin.com/in/nichole-john-talban-romero/" target="_blank">
-  <img align="left" alt="Nick's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=boringdeveloper.boringdeveloper)
+## Hi there &nbsp;![](https://visitor-badge.glitch.me/badge?page_id=boringdeveloper.boringdeveloper)
 
 Yo! I'm Nichole John Romero, a Mobile and Web Developer from the Philippines. I'm currently a UI Developer, formerly a Mobile Support Consultant, :speaking_head: at [Yondu, Inc.](https://www.yondu.com/) deployed as a Contractor for [Sunlife PH](https://www.sunlife.com.ph/en/). I'm also a Former Software Developer :man_technologist: at [Cloud Panda PH, Inc.](http://www.cloudpanda.ph/) and a Former Web Developer Intern :man_student: at [Prople BPO Inc.](https://www.propleinc.com/). During my spare time I am self-learning Flutter development :man_teacher:
 
 <img align="right" alt="Developer GIF" src="https://github.com/boringdeveloper/boringdeveloper/blob/master/developer.gif?raw=true" width="500" height="auto" />
 
 ### 🔭 I’m currently working on
-some projects using Flutter. <br />
-and also doing some clone of famous apps <br />
+some projects using Flutter.  
+and also doing some clone of famous apps  
 [Grab Food UI Clone](https://github.com/boringdeveloper/GrabFoodUI)
 
 ### 🌱 I’m currently learning
@@ -32,8 +27,14 @@ how to develop using Angular and NodeJS
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 
 ### 📫 How to reach me:
-📧 romero.nicholejohn@gmail.com <br />
-🗨️ Discord: Nickr#7895
+📧 romero.nicholejohn@gmail.com  
+🗨️ Discord: Nickr#7895  
+<a href="https://www.linkedin.com/in/nichole-john-talban-romero/" target="_blank">
+  <img align="left" alt="Nick's LinkdeIn" width="22px" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-16x16.png" />
+</a>
+<a href="https://twitter.com/nickrdev" target="_blank">
+  <img align="left" alt="Nick's LinkdeIn" width="22px" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/twitter-16x16.png" />
+</a>
 
 <br />
 
