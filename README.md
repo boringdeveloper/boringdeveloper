@@ -12,9 +12,6 @@ and also doing some clone of famous apps
 ### 🌱 I’m currently learning
 how to develop using Angular and NodeJS
 
-### 👯 I’m looking to collaborate on
-[Flutter Switch](https://github.com/boringdeveloper/FlutterSwitch), a custom Switch widget package created for Flutter.
-
 ### 💻 I'm using these languages and tools
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
