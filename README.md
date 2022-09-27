@@ -1,6 +1,6 @@
 ## Hi there &nbsp;![](https://visitor-badge.glitch.me/badge?page_id=boringdeveloper.boringdeveloper)
 
-Yo! I'm Nichole John Romero, a Mobile and Web Developer from the Philippines. I'm currently a UI Developer, formerly a Mobile Support Consultant, :speaking_head: at [Yondu, Inc.](https://www.yondu.com/) deployed as a Contractor for [Sunlife PH](https://www.sunlife.com.ph/en/). I'm also a Former Software Developer :man_technologist: at [Cloud Panda PH, Inc.](http://www.cloudpanda.ph/) and a Former Web Developer Intern :man_student: at [Prople BPO Inc.](https://www.propleinc.com/). During my spare time I self-study Flutter development :man_teacher:
+Yo! I'm Nichole John Romero, a Mobile and Web Developer from the Philippines. I'm currently a Mobile Analyst Programmer at Sun Life Financial Asia Services Limited. Formerly a UI Developer and Mobile Support Consultant, :speaking_head: at [Yondu, Inc.](https://www.yondu.com/) deployed as a Contractor for [Sunlife PH](https://www.sunlife.com.ph/en/). I'm also a Former Software Developer :man_technologist: at [Cloud Panda PH, Inc.](http://www.cloudpanda.ph/) and a Former Web Developer Intern :man_student: at [Prople BPO Inc.](https://www.propleinc.com/). During my spare time I self-study Flutter development :man_teacher:
 
 <img align="right" alt="Developer GIF" src="https://github.com/boringdeveloper/boringdeveloper/blob/master/developer.gif?raw=true" width="500" height="auto" />
 
