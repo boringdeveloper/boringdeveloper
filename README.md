@@ -1,4 +1,4 @@
-## Hi there &nbsp; [![Visits Badge](https://badges.pufler.dev/visits/boringdeveloper/boringdeveloper)](https://nickrdev.com/)
+## Hi there 👋
 
 Yo! I'm Nichole John Romero, a Mobile and Web Developer from the Philippines. I'm currently a Software Developer working on developing and continuously improving an Enterprise Talent Acquisition software at [PageUp People](https://www.pageuppeople.com/). _This GitHub account may seem inactive because I spend most of my time working using [nickrph](https://github.com/nickrph)._
 
