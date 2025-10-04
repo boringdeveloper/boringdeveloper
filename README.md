@@ -1,16 +1,16 @@
 ## Hi there &nbsp; [![Visits Badge](https://badges.pufler.dev/visits/boringdeveloper/boringdeveloper)](https://nickrdev.com/)
 
-Yo! I'm Nichole John Romero, a Mobile and Web Developer from the Philippines. I'm currently a Software Developer at PageUp. I was formerly a Mobile Analyst Programmer at Sun Life Financial Asia Services Limited. Formerly a UI Developer and Mobile Support Consultant, :speaking_head: at [Yondu, Inc.](https://www.yondu.com/) deployed as a Contractor for [Sunlife PH](https://www.sunlife.com.ph/en/). I'm also a Former Software Developer :man_technologist: at [Cloud Panda PH, Inc.](http://www.cloudpanda.ph/) and a Former Web Developer Intern :man_student: at [Prople BPO Inc.](https://www.propleinc.com/). During my spare time, I self-study to further deepen my knowledge in front-end development using React and backend development using .NET :man_teacher:
+Yo! I'm Nichole John Romero, a Mobile and Web Developer from the Philippines. I'm currently a Software Developer working on developing and continuously improving an Enterprise Talent Acquisition software at [PageUp People](https://www.pageuppeople.com/). _This GitHub account may seem inactive because I spend most of my time working using [nickrph](https://github.com/nickrph)._
+
+
 
 <img align="right" alt="Developer GIF" src="https://github.com/boringdeveloper/boringdeveloper/blob/master/developer.gif?raw=true" width="500" height="auto" />
 
 ### 🔭 I’m currently working on
-some projects using ReactJS.  
-and also doing some clones of famous apps  
-[Grab Food UI Clone](https://github.com/boringdeveloper/GrabFoodUI)
+Building [⚽ Open Futbol](https://open.futbol/) where Filipinos can find football/futsal open-play games and training sessions near them.
 
 ### 🌱 I’m currently learning
-backend development .NET  
+backend development using .NET  
 and Cloud Computing with AWS
 
 ### 💻 I'm using these languages and tools
@@ -27,15 +27,11 @@ and Cloud Computing with AWS
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
 ### 📫 How to reach me:
-📧 romero.nicholejohn@gmail.com  
 <a href="https://www.linkedin.com/in/nichole-john-talban-romero/" target="_blank">
   <img align="left" alt="Nick's LinkdeIn" width="22px" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/linkedin-16x16.png" />
 </a>
-<a href="https://twitter.com/nickrdev" target="_blank">
-  <img align="left" alt="Nick's LinkdeIn" width="22px" src="https://raw.githubusercontent.com/paulrobertlloyd/socialmediaicons/main/twitter-16x16.png" />
-</a>
 
-<br />
+<br /><br /><br />
 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=boringdeveloper&theme=nord&no-frame=true" alt="boringdeveloper achievements" /> </p>
 
