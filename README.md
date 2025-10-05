@@ -36,3 +36,5 @@ and Cloud Computing with AWS
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=boringdeveloper&theme=nord&no-frame=true" alt="boringdeveloper achievements" /> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=boringdeveloper&show_icons=true&theme=dracula" alt="boringdeveloper github stats" /> </p>
+
+[![An image of @nickrdev's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nickrdev)](https://holopin.io/@nickrdev)
