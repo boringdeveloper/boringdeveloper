@@ -6,7 +6,7 @@
   <a href="https://github.com/boringdeveloper?tab=repositories"><img src="https://img.shields.io/github/stars/boringdeveloper?style=flat&logo=github&color=gold"/></a>
 </p>
 
-Yo! I'm Nick Romero, a Mobile and Web Developer from the Philippines. I'm currently a Software Developer working on developing and continuously improving an Enterprise Talent Acquisition software at [PageUp](https://www.pageuppeople.com). Aside from building applications, I casually play **football** ⚽. It's my way to balance work and life.
+Yo! I'm Nick Romero, a Mobile and Web Developer from the Philippines. I'm currently a Software Developer working on developing and continuously contributing to an Enterprise Talent Acquisition software and a Design System called GEL at [PageUp](https://www.pageuppeople.com). Aside from building applications, I casually play **football** ⚽. It's my way to balance work and life.
 
 ### 🔭 I’m currently working on
 
