@@ -37,7 +37,7 @@ JavaScript is heavily embedded in my workflow. Most of the time, I use React and
 I'm available on the following platforms:
 
 <p>
-  <a href="https://www.linkedin.com/in/nichole-john-talban-romero/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin" alt="Nickr's LinkedIn profile" /></a>
+  <a href="https://www.linkedin.com/in/romero-nick/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin" alt="Nickr's LinkedIn profile" /></a>
   <img src="https://img.shields.io/badge/Discord-Nickr-35383d?logo=discord&logoColor=white&labelColor=5865f2" alt="Nickr's Discord username" />
   <a href="https://github.com/boringdeveloper/"><img src="https://img.shields.io/github/followers/boringdeveloper?style=social&label=Follow%20%40boringdeveloper" alt="Follow me"/></a>
   <a href="https://me.nickrdev.com/"><img src="https://img.shields.io/badge/-nickrdev.com-231F20?logo=vercel&logoColor=white" alt="Nickr's portfolio website" /></a>
