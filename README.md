@@ -61,3 +61,11 @@ Thank you for dropping by. If this repo helped you in any way, please give it a 
 </p>
 
 [![@nickrdev's Holopin badges](https://holopin.me/nickrdev)](https://holopin.io/@nickrdev)
+
+<p align="center">
+  <img
+    src="https://render.gitanimals.org/farms/boringdeveloper"
+    width="600"
+    height="300"
+  />
+</p>
